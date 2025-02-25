@@ -24,5 +24,5 @@ This OCR-based Invoice Reader is a web application that extracts text from scann
 - Groq API (Qwen Model): AI-powered Q&A on extracted text
   
   ## App Layout
-  ![alt text]("https://github.com/Tejas-Shanbhag/Invoice-Reader-OCR/blob/master/assets/app.png")
+  ![alt text]("https://github.com/Tejas-Shanbhag/Invoice-Reader-OCR/blob/master/assets/app.png").
   
