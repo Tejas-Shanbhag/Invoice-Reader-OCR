@@ -1,0 +1,7 @@
+easyocr
+langchain
+langchain-core
+langchain-community
+langchain-groq
+streamlit
+python-dotenv
