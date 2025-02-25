@@ -12,7 +12,7 @@ This OCR-based Invoice Reader is a web application that extracts text from scann
 - ✅ Upload scanned invoice images (JPG, PNG, PDF supported)
 - ✅ Extract text from invoices using EasyOCR
 - ✅ Ask any questions about the invoice (e.g., "What is the total amount?")
-- ✅ Get AI-powered responses using Groq API (Qwen Model)
+- ✅ Get AI-powered responses using Groq API (Qwen 2.5 Model)
 - ✅ User-friendly web interface built with Streamlit
 
 🛠️ Tech Stack
